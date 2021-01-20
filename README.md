@@ -5,6 +5,7 @@
 
 End-to-end Autonomous Vehicle System using yaw information.
 
+Implemented Version
   - Pytorch 1.3
   - Torchvision 0.2
   - CARLA 0.8.2
