@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0e3940f1-11d0-480a-9d42-31662d85587b" name="Server 81" url="http://141.223.163.81">
+        <fileTransfer host="141.223.163.81" port="22" rootFolder="/home/kimna/PytorchWorkspace/CARLA_Pytorch/carla_cil_pytorch_eval-pytorch_eval" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

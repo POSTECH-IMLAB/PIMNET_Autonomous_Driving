@@ -1,0 +1,31 @@
+version: '2.3'
+services:
+  carla_env:
+    image: carlasim/carla:0.8.2
+    runtime: nvidia
+    command: ./CarlaUE4.sh -carla-server -fps=30
+    networks:
+      - carla_net
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=0
+
+  policy_image:
+    image: onlytailei/pytorch:0.4.1-cuda9-tensorboardx
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=0
+    volumes:
+      - ${TAI_CARLA}:/home/carla/
+    networks:
+      - carla_net
+    working_dir: /home/carla/PythonClient/imitation_learning/
+    command:
+      python run_CIL.py
+      --host carla_env
+      --log-name clear2wet
+      --weathers 1
+      --model-path "model/policy.pth"
+
+networks:
+  carla_net:
+    external: true

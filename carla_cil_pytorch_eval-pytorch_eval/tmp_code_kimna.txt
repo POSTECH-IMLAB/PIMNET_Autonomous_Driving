@@ -1,0 +1,25 @@
+
+### (width, height, channel) 순으로 만들어라
+# tensor to image
+from PIL import Image
+# img_tmp = img[0,:,:,:].cpu().numpy() * 255
+# np.multiply(img, 255)
+img_tmp = Image.fromarray(img.astype('uint8'), 'RGB')
+img_tmp.save('img.png')
+
+img_tmp1 = np.array(h5_file['rgb'])[199]
+img_tmp1 = Image.fromarray(img_tmp1.astype('uint8'), 'RGB')
+img_tmp1.save('img1.png')
+
+ad_array_tmp = np.concatenate((img_tmp, img_tmp1), axis=2)
+ad_array_tmp_transform = self.transform(ad_array_tmp)
+
+ad_array_tmp2 = ad_array_tmp_transform.permute(1,2,0).cpu().numpy() * 255
+ad_array_tmp2_split = np.split(ad_array_tmp2, 2, axis=2)
+
+### tensor는 기본적으로 Channel x Height x Width
+ 이미지로 저장하기 위해 ==>  Height x Width x Channel
+img_tmp1 = np.array(h5_file['rgb'])[199]
+img_tmp1 = img_tmp1.permute(1,2,0).cpu().numpy() * 255
+img_tmp1 = Image.fromarray(img_tmp1.astype('uint8'), 'RGB')
+img_tmp1.save('img1.png')

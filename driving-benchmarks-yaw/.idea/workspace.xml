@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0bf7a5f-4324-4da1-83a3-ed781440915e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ctAKiTNqlPSn1pivfw7xSDHjol" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../carla_yaw" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PytorchWorkspace\CARLA_Pytorch\driving-benchmarks-yaw\agents\auxiliary" />
+      <recent name="D:\PytorchWorkspace\CARLA_Pytorch\driving-benchmarks-yaw\agents\auxiliary\modules" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_auxi_ver6_town02">
+    <configuration name="auxi_ver6_adj" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="driving-benchmarks-yaw" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/auxi_ver6_adj.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_auxi_ver4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="driving-benchmarks-yaw" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_auxi_ver4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_auxi_ver6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="driving-benchmarks-yaw" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_auxi_ver6.py" />
+      <option name="PARAMETERS" value="--corl-2017 --continue-experiment" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_auxi_ver6_town02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="driving-benchmarks-yaw" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_auxi_ver6_town02.py" />
+      <option name="PARAMETERS" value="--carla100 --continue-experiment" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_auxi_ver7_town02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="driving-benchmarks-yaw" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_auxi_ver7_town02.py" />
+      <option name="PARAMETERS" value="--carla100 --continue-experiment" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_auxi_ver4" />
+      <item itemvalue="Python.run_auxi_ver6" />
+      <item itemvalue="Python.run_auxi_ver6_town02" />
+      <item itemvalue="Python.auxi_ver6_adj" />
+      <item itemvalue="Python.run_auxi_ver7_town02" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_auxi_ver6_town02" />
+        <item itemvalue="Python.run_auxi_ver7_town02" />
+        <item itemvalue="Python.run_auxi_ver6" />
+        <item itemvalue="Python.auxi_ver6_adj" />
+        <item itemvalue="Python.run_auxi_ver4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0bf7a5f-4324-4da1-83a3-ed781440915e" name="Default Changelist" comment="" />
+      <created>1591337453029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591337453029</updated>
+      <workItem from="1591337457789" duration="8253000" />
+      <workItem from="1591603855270" duration="22562000" />
+      <workItem from="1591971449925" duration="4353000" />
+      <workItem from="1592918334059" duration="113684000" />
+      <workItem from="1593407820287" duration="54317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1387" y="382" key="#Deployment" timestamp="1591340213007">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1387" y="382" key="#Deployment/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1591340213007" />
+    <state x="1387" y="382" key="#Options" timestamp="1591340233554">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1387" y="382" key="#Options/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1591340233554" />
+    <state x="862" y="339" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593652387700">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="862" y="339" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1593652387700" />
+    <state width="1890" height="466" key="DebuggerActiveHint" timestamp="1591961910996">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1890" height="466" key="DebuggerActiveHint/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1591961910996" />
+    <state x="580" y="470" key="FileChooserDialogImpl" timestamp="1593525103725">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="580" y="470" key="FileChooserDialogImpl/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1593525103725" />
+    <state width="1098" height="373" key="GridCell.Tab.0.bottom" timestamp="1593689445731">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1098" height="373" key="GridCell.Tab.0.bottom/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1593689445731" />
+    <state width="1098" height="373" key="GridCell.Tab.0.center" timestamp="1593689445731">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1098" height="373" key="GridCell.Tab.0.center/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1593689445731" />
+    <state width="1098" height="373" key="GridCell.Tab.0.left" timestamp="1593689445731">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1098" height="373" key="GridCell.Tab.0.left/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1593689445731" />
+    <state width="1098" height="373" key="GridCell.Tab.0.right" timestamp="1593689445731">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1098" height="373" key="GridCell.Tab.0.right/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1593689445731" />
+    <state width="1448" height="240" key="GridCell.Tab.1.bottom" timestamp="1593623569801">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1448" height="240" key="GridCell.Tab.1.bottom/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1593623569801" />
+    <state width="1448" height="240" key="GridCell.Tab.1.center" timestamp="1593623569801">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1448" height="240" key="GridCell.Tab.1.center/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1593623569801" />
+    <state width="1448" height="240" key="GridCell.Tab.1.left" timestamp="1593623569801">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1448" height="240" key="GridCell.Tab.1.left/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1593623569801" />
+    <state width="1448" height="240" key="GridCell.Tab.1.right" timestamp="1593623569801">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1448" height="240" key="GridCell.Tab.1.right/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1593623569801" />
+    <state x="1436" y="365" key="SettingsEditor" timestamp="1592985857719">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1436" y="365" key="SettingsEditor/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1592985857719" />
+    <state x="341" y="343" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592921955132">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="341" y="343" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1592921955132" />
+    <state x="562" y="454" width="613" height="538" key="find.popup" timestamp="1593605497488">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="562" y="454" width="613" height="538" key="find.popup/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1593605497488" />
+    <state x="1606" y="454" key="ftp.server.browser" timestamp="1591340207828">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1606" y="454" key="ftp.server.browser/62.0.2498.1440/2560.189.1858.1080@62.0.2498.1440" timestamp="1591340207828" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/agents/auxiliary/auxi_ver0.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/driving_benchmarks_yaw$run_auxi_ver3.coverage" NAME="run_auxi_ver3 Coverage Results" MODIFIED="1591788050843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/driving_benchmarks_yaw$run_auxi_ver0.coverage" NAME="run_auxi_ver0 Coverage Results" MODIFIED="1591895495883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/driving_benchmarks_yaw$run_yaw_ver2.coverage" NAME="run_yaw_ver2 Coverage Results" MODIFIED="1591896022296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/driving_benchmarks_yaw$run_auxi_ver3_transfer.coverage" NAME="run_auxi_ver3_transfer Coverage Results" MODIFIED="1592141575169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/driving_benchmarks_yaw$run_auxi_ver6_town02.coverage" NAME="run_auxi_ver6_town02 Coverage Results" MODIFIED="1593689445724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/driving_benchmarks_yaw$run_auxi_ver2.coverage" NAME="run_auxi_ver2 Coverage Results" MODIFIED="1591787969956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/driving_benchmarks_yaw$auxi_ver6_adj.coverage" NAME="auxi_ver6_adj Coverage Results" MODIFIED="1593615556412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/driving_benchmarks_yaw$run_auxi_ver4.coverage" NAME="run_auxi_ver4 Coverage Results" MODIFIED="1592968571423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/driving_benchmarks_yaw$run_yaw_ver0.coverage" NAME="run_yaw_ver0 Coverage Results" MODIFIED="1591895942531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/driving_benchmarks_yaw$run_auxi_ver6.coverage" NAME="run_auxi_ver6 Coverage Results" MODIFIED="1593622227806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/driving_benchmarks_yaw$run_auxi_ver7_town02.coverage" NAME="run_auxi_ver7_town02 Coverage Results" MODIFIED="1593624446628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/driving_benchmarks_yaw$run_auxi_ver5.coverage" NAME="run_auxi_ver5 Coverage Results" MODIFIED="1592920747850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
