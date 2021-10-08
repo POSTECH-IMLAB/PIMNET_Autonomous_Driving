@@ -3,7 +3,7 @@
 # carla_yaw
 
 
-End-to-end Autonomous Vehicle Framework using yaw information.
+End-to-end Autonomous Vehicle System using yaw information.
 
   - Pytorch 1.3
   - Torchvision 0.2
